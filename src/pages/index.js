@@ -6,7 +6,7 @@ const Welcome = () => {
   return (
     <section className="d-flex">
       <Image
-        className="border-radius"
+        className="border-radius shadow-normal"
         src={Profile}
         width={350}
         quality={100}
